@@ -1,0 +1,36 @@
+DEBUG:root:hiii
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential
+DEBUG:root:Invalid credential'dict' object has no attribute 'read'
+DEBUG:root:Invalid credential(535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials b12sm13161735pfv.148 - gsmtp')
+DEBUG:root:Invalid credential(535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials b20sm13298537pfv.134 - gsmtp')
+DEBUG:root:Invalid credential(535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials oa10sm5697741pjb.27 - gsmtp')
+DEBUG:root:Invalid credential(535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m21sm13218012pfk.26 - gsmtp')
+DEBUG:root:Invalid credential(535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials gx10sm5427450pjb.7 - gsmtp')
+DEBUG:root:Invalid credential'dict' object has no attribute 'read'
+DEBUG:root:Invalid credential'dict' object has no attribute 'read'
+DEBUG:root:Invalid credential'dict' object has no attribute 'read'
+DEBUG:root:Invalid credential'dict' object has no attribute 'read'
+DEBUG:root:Invalid credential'dict' object has no attribute 'read'
+DEBUG:root:Invalid credential(535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x7sm24418679pgr.87 - gsmtp')

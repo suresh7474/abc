@@ -1,0 +1,3 @@
+username:suresh,password:Suresh@18,Email:sachinkadam7179@gmail.com username:suresh,password:Suresh@18,Email:sachinkadam7179@gmail.com 
+username:{username},password:{password},Email:{email}
+username:{username},password:{password},Email:{email}
